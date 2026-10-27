@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="SQL database icon">
+  <defs>
+    <linearGradient id="db" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#0756C9"/>
+    </linearGradient>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#168BFA"/>
+      <stop offset="1" stop-color="#063DB5"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#0645A8" stroke-width="12" stroke-linejoin="round">
+    <path fill="url(#db)" d="M62 108v262c0 35 88 63 196 63s196-28 196-63V108"/>
+    <ellipse cx="258" cy="108" rx="196" ry="63" fill="url(#db)"/>
+    <path d="M62 195c0 35 88 63 196 63s196-28 196-63M62 282c0 35 88 63 196 63s196-28 196-63" fill="none" stroke="#DDF4FF" stroke-width="9"/>
+  </g>
+  <g>
+    <rect x="224" y="280" width="258" height="174" rx="35" fill="url(#badge)" stroke="#0645A8" stroke-width="10"/>
+    <rect x="238" y="294" width="230" height="146" rx="25" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+    <text x="353" y="389" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" text-anchor="middle" fill="#FFFFFF">SQL</text>
+  </g>
+</svg>

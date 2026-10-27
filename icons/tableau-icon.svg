@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Tableau data visualization icon">
+  <g fill="none" stroke="#1F4E79" stroke-width="20" stroke-linecap="round">
+    <path d="M256 48v104M204 100h104"/>
+    <path d="M256 360v104M204 412h104"/>
+    <path d="M48 256h104M100 204v104"/>
+    <path d="M360 256h104M412 204v104"/>
+  </g>
+  <g fill="none" stroke="#2D9CDB" stroke-width="16" stroke-linecap="round">
+    <path d="M256 170v172M170 256h172"/>
+    <path d="M178 178l156 156M334 178 178 334"/>
+  </g>
+  <g fill="#1F4E79">
+    <circle cx="256" cy="256" r="45"/>
+    <circle cx="256" cy="48" r="13"/>
+    <circle cx="256" cy="464" r="13"/>
+    <circle cx="48" cy="256" r="13"/>
+    <circle cx="464" cy="256" r="13"/>
+  </g>
+  <g fill="#2D9CDB">
+    <circle cx="178" cy="178" r="13"/>
+    <circle cx="334" cy="178" r="13"/>
+    <circle cx="178" cy="334" r="13"/>
+    <circle cx="334" cy="334" r="13"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Microsoft Excel icon">
+  <defs>
+    <linearGradient id="excelBack" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#33E6A0"/>
+      <stop offset="0.48" stop-color="#008C58"/>
+      <stop offset="1" stop-color="#004B35"/>
+    </linearGradient>
+    <linearGradient id="excelFront" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10B981"/>
+      <stop offset="1" stop-color="#005B3B"/>
+    </linearGradient>
+    <linearGradient id="excelEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#003E2D"/>
+      <stop offset="1" stop-color="#008653"/>
+    </linearGradient>
+  </defs>
+  <!-- Spreadsheet panel -->
+  <rect x="224" y="72" width="250" height="368" rx="34" fill="url(#excelBack)" stroke="#006341" stroke-width="10"/>
+  <path d="M238 92h104v348H238z" fill="#00A86B" opacity=".72"/>
+  <path d="M342 92h118v82H342z" fill="#6AF0B0" opacity=".8"/>
+  <path d="M342 174h118v82H342z" fill="#20C985" opacity=".8"/>
+  <path d="M238 174h104v82H238z" fill="#008653" opacity=".65"/>
+  <path d="M342 256h118v82H342z" fill="#008D60" opacity=".8"/>
+  <path d="M238 256h104v82H238z" fill="#006B4B" opacity=".7"/>
+  <path d="M342 338h118v82H342z" fill="#006B4B" opacity=".75"/>
+  <path d="M238 338h104v82H238z" fill="#004E3A" opacity=".75"/>
+  <!-- Front Excel tile -->
+  <path d="M77 125 260 79Q278 75 278 96V416Q278 437 260 432L77 387Q58 382 58 360V153Q58 130 77 125Z" fill="url(#excelEdge)" stroke="#006341" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M86 143 247 102V410L86 370Q76 367 76 354V158Q76 146 86 143Z" fill="url(#excelFront)"/>
+  <path d="M126 190 158 190 187 239 216 174 248 168 204 260 250 344 215 339 185 287 154 328 120 322 166 261Z" fill="#FFFFFF"/>
+</svg>

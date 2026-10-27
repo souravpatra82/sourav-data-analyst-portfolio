@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Microsoft Power BI icon">
+  <g fill="#F2C811">
+    <path d="M72 300h62v138H72z"/>
+    <path d="M164 222h62v216h-62z"/>
+    <path d="M256 145h62v293h-62z"/>
+    <path d="M348 74h62v364h-62z"/>
+    <path d="M440 185h28v253h-28z"/>
+  </g>
+  <path fill="#E6A700" d="M72 300h62v138H72z" opacity=".25"/>
+  <path fill="#D99A00" d="M164 222h62v216h-62z" opacity=".25"/>
+  <path fill="#C88A00" d="M256 145h62v293h-62z" opacity=".25"/>
+  <path fill="#F2C811" d="M348 74h62v364h-62z"/>
+  <path fill="#F2C811" d="M440 185h28v253h-28z"/>
+</svg>

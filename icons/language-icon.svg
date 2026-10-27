@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Language translation icon">
+  <g fill="none" stroke="#2563EB" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="190" cy="190" r="126"/>
+    <path d="M64 190h252M190 64c40 37 60 79 60 126s-20 89-60 126M190 64c-40 37-60 79-60 126s20 89 60 126"/>
+    <path d="M92 126c27 18 60 28 98 28s71-10 98-28M92 254c27-18 60-28 98-28 17 0 34 2 50 6"/>
+  </g>
+  <g fill="none" stroke="#0F172A" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M286 320l54-54 54 54M340 266v142"/>
+    <path d="M278 426h124"/>
+  </g>
+</svg>
