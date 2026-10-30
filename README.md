@@ -71,9 +71,10 @@ Ensure each project description and repository link accurately reflects the work
 
 For professional opportunities, collaborations, or data analytics projects:
 
-- **Portfolio:** https://souravpatra82.github.io/sourav-data-analyst-portfolio/
-- **GitHub:** https://github.com/souravpatra82
-- **LinkedIn:** https://www.linkedin.com/in/sourav-patra-5041212a7/
+- **Portfolio:** Add your published website URL.
+- **GitHub:** Add your GitHub profile URL.
+- **LinkedIn:** Add your LinkedIn profile URL.
+- **Email:** Add your professional email address.
 
 ---
 
